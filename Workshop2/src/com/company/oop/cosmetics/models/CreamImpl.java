@@ -41,5 +41,5 @@ public class CreamImpl extends ProductImpl implements Cream {
         builder.append(String.format("\n #Scent: %s", getScent()));
         return builder.toString();
     }
-    //Creating change
+    //Creating change -2
 }
